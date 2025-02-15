@@ -24,6 +24,6 @@ This repository showcases:
 Feel free to fork this repository, submit issues, or contribute improvements!
 
 ## 📩 Connect with Me
-LinkedIn: [Your Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sudhanshu-nerkar-746b25207/))
+LinkedIn: [Sudhanshu Nerkar](https://www.linkedin.com/in/sudhanshu-nerkar-746b25207/)
 
 Happy Analyzing!
